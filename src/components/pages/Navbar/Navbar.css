@@ -1,0 +1,20 @@
+/* .link-active{
+    border-bottom: 1px solid rgb(79, 126, 83);
+} */
+
+.bg-default{
+    background-color: transparent;
+}
+
+
+ul li .nav-link{
+    font-variant: normal;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.menu-active{
+    font-weight: bold;
+    color: red;
+    border-bottom: 2px solid rgb(58, 71, 58);
+}

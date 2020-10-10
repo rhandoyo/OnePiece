@@ -1,0 +1,19 @@
+h1{
+    font-weight: bold;
+    font-family: cursive;
+}
+/* .btn-outline-primary{
+    background-color: teal;
+    color: white;
+
+} */
+
+.img-fluid{
+    width: 100%;
+    height: 400px;
+    margin: auto;
+}
+
+strong{
+    color: rgb(129, 22, 22);
+}
